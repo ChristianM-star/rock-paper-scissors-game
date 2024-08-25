@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(28, 26, 26);
+    color: white;
+   
+}
+
+.image-icon{
+    color: transparent;
+height: 50px;
+    padding: 20px;
+}
+
+.move-button{
+    background-color: transparent;
+    border: 2px solid white;
+    margin-right: 10px;
+border-radius: 50%;
+width: 120px;
+height: 120px;
+cursor: pointer;
+
+
+}
+
+.Reset-btn{
+    font-size: 18px;
+    padding: 8px;
+    margin-top: 16px;
+    cursor: pointer;
+}
+.result{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(222, 168, 68);
+    margin-top: 18px;
+    margin-left: 15px;
+}
+
+.score{
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
