@@ -22,7 +22,7 @@ cursor: pointer;
 
 }
 
-.Reset-btn{
+.Reset-btn, .auto-play{
     font-size: 18px;
     padding: 8px;
     margin-top: 16px;
